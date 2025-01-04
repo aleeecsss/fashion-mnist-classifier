@@ -48,7 +48,7 @@ device = (
     else "cpu"
 )
 
-PATH = "C:/Users/aaaaa/Desktop/could this be love/model.pt"
+PATH = "../model.pt"
 
 class neural_network(nn.Module):
     def __init__(self):
